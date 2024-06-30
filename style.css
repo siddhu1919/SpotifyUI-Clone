@@ -330,14 +330,14 @@ body p {
     -moz-transform: scale(0.65);
     -ms-transform: scale(0.65);
     -o-transform: scale(0.65);
-}
+  }
   100% {
-    transform:scale(1);
-    -webkit-transform:scale(1);
-    -moz-transform:scale(1);
-    -ms-transform:scale(1);
-    -o-transform:scale(1);
-}
+    transform: scale(1);
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+  }
 }
 
 .item:hover {
@@ -436,3 +436,10 @@ body p {
   margin-bottom: 20px !important;
 }
 /* Sid Footer Css Ends HEre */
+
+/* todo: 1. Add Micro Interaction   */
+/* todo: 2. Add Images To all Cards   */
+/* todo: 3. MAke it Responsive   */
+/* todo: 4. Adjust Play Button For Other Cards   */
+/* todo: 5. Change Title   */
+/* todo: 6. Add More Pages - Such As (About me , LinkedIn , Contact Me)   */
